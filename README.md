@@ -1,4 +1,4 @@
-# E - Commerce Customer Churn
+# E - Commerce Customer Churn Data Analysis
 
 
 ### Objective
@@ -67,4 +67,34 @@ churn rate = (Total Number of Customers at the Start of the Period / Nu
 
 
 ### Insights I
+
+👉 Customer Churn by Month: The highest number of customer churns occurred in July, with August and March following closely.
+
+👉 Customer Churn by Year: The year 2020 saw the highest rate of customer churn, followed by 2021 and 2022.
+
+👉 Product Returns by Month: May recorded the highest number of product returns, with significant returns also seen in July and August.
+
+👉 Product Returns by Year: Product returns peaked in 2020, with subsequent declines in 2021 and 2022.
+
+
+### Insight II
+
+👉 Customer Churn by Product Category: The highest customer churn occurred in the Books and Clothing categories, with Home and Electronics following closely.
+
+👉 Customer Churn by Age Group: The 18-25 and 42-49 age groups had the highest churn rates, followed by the 26-33 and 34-41 age groups.
+
+👉 Product Returns by Category: Books and Clothing categories experienced the highest number of product returns, with Home and Electronics categories trailing behind.
+
+👉 Product Returns by Age Group: The majority of returns came from customers aged 18-25, followed by those aged 34-41 and 26-33.
+
+
+### Insights III
+
+👉 Customer Churn by Payment Method: The highest customer churn was associated with Credit Card payments (40.27%), followed by PayPal (29.84%) and Cash (20%).
+
+👉 Product Returns by Payment Method: Credit Card transactions also accounted for the most product returns (40.22%), followed by PayPal (29.95%) and Cash (20%).
+
+👉 Amount Spent by Category: Customers spent the most in the Books and Clothing categories, totaling $205M, followed by Electronics with $137M.
+
+
 
