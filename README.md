@@ -55,4 +55,16 @@ churn rate = (Total Number of Customers at the Start of the Period / Nu
 
 #### Dashboard 1
 ​
+![dasboard1](https://github.com/user-attachments/assets/497ce275-c564-494a-97d1-067255ba0ea2)
+
+#### Dashboard 2
+
+![dashboard2](https://github.com/user-attachments/assets/89a6ae2c-9790-4849-bea3-ca5c60ae55d7)
+
+#### Dashboard 3
+
+![dashboard3](https://github.com/user-attachments/assets/326e2e20-d06c-49f0-900e-ab93c9c4ec97)
+
+
+### Insights I
 
