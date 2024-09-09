@@ -28,3 +28,31 @@ The project is built using Power BI Desktop and focuses on analyzing customer ch
 10. Customer Name: Name of the customer.
 11. Gender: Gender of the customer.
 12. Churn: Whether the customer has churned or not (Yes/No).
+
+
+### KPIs
+
+1. Churn Rate: Churn Rate is a critical metric that measures the percentage of customers who stop using a company's products or services during a specific time period.
+
+churn rate = (Total Number of Customers at the Start of the Period / Number of Customers Churned during a Period)*100
+​
+ 
+
+2. Customer Lifetime Value: CLV is a key metric that estimates the total revenue a business can reasonably expect from a single customer account throughout the entire relationship with that customer.
+
+  CLV = Average Purchase Value * Average Purchase Frequency * Customer Lifespan
+
+
+3. Return Rate: Number of products returned by the customer.
+
+   Return rate = total no. of products return / total quantity
+
+
+4. Average Purchase Frequency: The average number of times a customer makes a purchase over a specific period.
+
+   APF = Total Number of Unique Customers / Total Number of Purchases
+
+
+#### Dashboard 1
+​
+
